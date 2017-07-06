@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis Report  
-author: "Utkarsh Ashok Pathrabe"
+author: "SHREEJIT VERMA"
 output: 
   md_document: 
     variant: markdown_github
