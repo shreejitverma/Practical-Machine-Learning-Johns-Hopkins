@@ -4,7 +4,7 @@ Practical Machine Learning Course Project Report
 These is a file produced during a homework assignment of Coursera's MOOC <b>Practical Machine Learning</b> from <b>Johns Hopkins Bloomberg School of Public Health</b>.  
 For more information about the several MOOCs comprised in this Specialization, please visit: [<https://www.coursera.org/specialization/jhudatascience/>](https://www.coursera.org/specialization/jhudatascience/)  
 The scripts have been solely produced, tested and executed on Windows 10 Pro and RStudio Version 0.99.486.  
-Developer: <b>SHREEJIT VERMA/b>  
+Developer: <b>SHREEJIT VERMA</b>  
 GitHub Repo: [<https://github.com/shreejitverma/Practical-Machine-Learning-Johns-Hopkins/tree/master/Project>](https://github.com/shreejitverma/Practical-Machine-Learning-Johns-Hopkins/tree/master/Project)  
 
 
